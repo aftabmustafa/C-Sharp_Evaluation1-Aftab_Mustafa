@@ -1,0 +1,8 @@
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\bin\Debug\Evaluation1.exe.config
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\bin\Debug\Evaluation1.exe
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\bin\Debug\Evaluation1.pdb
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\obj\Debug\Evaluation1.csproj.AssemblyReference.cache
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\obj\Debug\Evaluation1.csproj.SuggestedBindingRedirects.cache
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\obj\Debug\Evaluation1.csproj.CoreCompileInputs.cache
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\obj\Debug\Evaluation1.exe
+D:\Corporate\Bassetti\Evaluation\Evaluation1\Evaluation1\obj\Debug\Evaluation1.pdb
